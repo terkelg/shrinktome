@@ -12,7 +12,7 @@
 
 ## Why
 
-Minimise time spent time on facebook by making it smaller every 10th second.
+Minimize time spent on facebook by making it smaller every 10th second.
 This result in facebook being useless after only a couple of seconds. Enjoy real life.
 
 
