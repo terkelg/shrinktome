@@ -7,7 +7,7 @@ let scale = 1;
 body.style.transformOrigin = `top center`;
 
 function flipbook() {
-  if (scale < 0.05) return learInterval(flipbook);
+  if (scale < 0.05) return clearInterval(flipbook);
   scale *= 0.95;
   body.style.transform = `scale(${scale}, ${scale})`;
 }
