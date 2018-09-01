@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/terkelg/shrinkbook/raw/master/logo.gif" alt="shrinkbook" width="35%" height="auto" />
+  <img src="https://github.com/terkelg/shrinkbook/raw/master/logo.gif" alt="shrinkbook" width="35%" />
 </div>
 
 <div align="center"><b>Shrink facebook by 5% every 10th second.</b></div>
