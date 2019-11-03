@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://github.com/terkelg/shrinktome/raw/master/logo.gif" alt="shrinktome" width="620" />
-<div align="center"><b>Shrink facebook by 5% every 10th second.</b></div>
+  <b>Shrink facebook by 5% every 10th second.</b>
+</div>
 
 <br />
-
 
 ![split](https://github.com/terkelg/shrinktome/raw/master/assets/split.png)
 
