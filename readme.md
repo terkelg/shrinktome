@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://github.com/terkelg/shrinktome/raw/master/logo.gif" alt="shrinktome" width="35%" />
-<620
+  <img src="https://github.com/terkelg/shrinktome/raw/master/logo.gif" alt="shrinktome" width="620" />
 <div align="center"><b>Shrink facebook by 5% every 10th second.</b></div>
 
 <br />
