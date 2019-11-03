@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="https://github.com/terkelg/shrinktome/raw/master/logo.gif" alt="shrinktome" width="620" />
-  <b>Shrink facebook by 5% every 10th second.</b>
+  <img src="https://github.com/terkelg/shrinktome/raw/master/logo.gif" alt="shrinktome" width="35%" />
 </div>
+
+<div align="center"><b>Shrink facebook by 5% every 10th second.</b></div>
 
 <br />
 
@@ -22,9 +23,9 @@ Get shrinktome in the
 
 ## Disclaimer
 
-Shrinktome is a third-party app and is not affiliated with Facebook.
+Shrinktome is a third-party app and is **not** affiliated with Facebook.
 
-> **FYI:** This buillshit copy is added to comply because they already complained. I'm glad they are channeling their resoruces on what's important.
+> **FYI:** This buillshit copy is added because facebook already complained.
 
 
 ## License
