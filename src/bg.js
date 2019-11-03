@@ -6,10 +6,10 @@ const minute = 60000;
 let scale = 1;
 body.style.transformOrigin = `top center`;
 
-function flipbook() {
-  if (scale < 0.05) return clearInterval(flipbook);
+function shrinktome() {
+  if (scale < 0.05) return clearInterval(shrinktome);
   scale *= 0.95;
   body.style.transform = `scale(${scale}, ${scale})`;
 }
 
-setTimeout(() => setInterval(flipbook, minute/10), 500);
+setTimeout(() => setInterval(shrinktome, minute/10), 500);

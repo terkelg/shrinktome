@@ -1,9 +1,9 @@
 {
-  "name": "shrinkbook",
+  "name": "shrinktome",
   "description": "Shrink facebook by 5% every 10th second",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Terkel Gjervig",
-  "homepage_url": "https://github.com/terkelg/shrinkbook",
+  "homepage_url": "https://github.com/terkelg/shrinktome",
   "permissions": [
     "activeTab",
     "tabs"
@@ -19,7 +19,7 @@
       "js": ["bg.js"]
     }
   ],
-  "icons": { 
+  "icons": {
     "16": "icon16.png",
     "48": "icon48.png",
     "128": "icon128.png"

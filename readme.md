@@ -1,25 +1,31 @@
 <div align="center">
-  <img src="https://github.com/terkelg/shrinkbook/raw/master/logo.gif" alt="shrinkbook" width="35%" />
-</div>
-
+  <img src="https://github.com/terkelg/shrinktome/raw/master/logo.gif" alt="shrinktome" width="35%" />
+<620
 <div align="center"><b>Shrink facebook by 5% every 10th second.</b></div>
 
 <br />
 
 
-![split](https://github.com/terkelg/shrinkbook/raw/master/assets/split.png)
+![split](https://github.com/terkelg/shrinktome/raw/master/assets/split.png)
 
 
 ## Why
 
 Minimize time spent on facebook by making it smaller every 10th second.
-This result in facebook being useless after only a couple of seconds. Enjoy real life.
+This result in facebook being (more) useless after only a couple of seconds. Enjoy real life.
 
 
 ## Install
 
-Get shrinkbook in the
-**[Chrome Web Store](https://chrome.google.com/webstore/detail/shrinkbook/pgdghhephbjklkcpkhmkapijfcgojfea)**
+Get shrinktome in the
+**[Chrome Web Store](https://chrome.google.com/webstore/detail/shrinktome/pgdghhephbjklkcpkhmkapijfcgojfea)**
+
+
+## Disclaimer
+
+Shrinktome is a third-party app and is not affiliated with Facebook.
+
+> **FYI:** This buillshit copy is added to comply because they already complained. I'm glad they are channeling their resoruces on what's important.
 
 
 ## License
